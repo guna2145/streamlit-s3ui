@@ -1,0 +1,6 @@
+streamlit
+altair==4.0
+s3fs
+st-files-connection
+psycopg2-binary
+sqlalchemy
